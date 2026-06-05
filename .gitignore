@@ -1,0 +1,31 @@
+# Unreal Engine
+
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+.vs/
+.vscode/
+
+*.VC.db
+*.VC.opendb
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+
+# Crash reports
+Crashes/
+
+# Rider
+.idea/
+
+# Build outputs
+Build/*
+!Build/**/*.ico
