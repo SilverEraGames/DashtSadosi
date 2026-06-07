@@ -29,3 +29,14 @@ Crashes/
 # Build outputs
 Build/*
 !Build/**/*.ico
+Content/_Game/UI/Loading/WB_Loading.uasset
+Content/_Game/UI/MainMenu/WB_MainMenu.uasset
+Content/Fab/Low_Poly_Axe/lowpoly_axe.uasset
+Content/Fab/Low_Poly_Axe/lowpoly_axe_PhysicsAsset.uasset
+Content/Fab/Low_Poly_Axe/lowpoly_axe_Skeleton.uasset
+Content/Fab/Low_Poly_Axe/m.uasset
+Content/Fab/Low_Poly_Axe/Metal.uasset
+Content/Fab/Low_Poly_Axe/w.uasset
+Content/Fab/Low_Poly_Axe/Wood.uasset
+Content/Maps/BP_RandomEvent_2.uasset
+Content/Maps/BP_RandomEvent_3.uasset
