@@ -24,11 +24,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "EasyMultiSave",
+			"Name": "WaterExtras",
 			"Enabled": true
 		},
 		{
-			"Name": "WaterExtras",
+			"Name": "CommonUI",
 			"Enabled": true
 		}
 	]
