@@ -9,6 +9,10 @@ Windows/
 PackagedBuilds/
 ArchivedBuilds/
 
+# Unreal Fab / Marketplace assets
+/Content/Fab/
+
+
 .vs/
 .vscode/
 
