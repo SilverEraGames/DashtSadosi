@@ -4,6 +4,10 @@ Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
+DashtSadosi/Windows/
+Windows/
+PackagedBuilds/
+ArchivedBuilds/
 
 .vs/
 .vscode/
